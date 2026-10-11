@@ -1,0 +1,1504 @@
+{
+  "groups": {
+    "Dirección": {
+      "members": [],
+      "description": "",
+      "admin": null,
+      "delegados": []
+    },
+    "Academia": {
+      "members": [
+        {
+          "id": "91073a615b",
+          "name": "Ctrl-Z",
+          "role": "administrador",
+          "created": "2026-10-10 02:54",
+          "castigado": false
+        },
+        {
+          "id": "aa5c53007c",
+          "name": "Crossfire",
+          "role": "administrador",
+          "created": "2026-10-10 02:54",
+          "castigado": false
+        },
+        {
+          "id": "f9090579c5",
+          "name": "agustin pixarro",
+          "role": "regular",
+          "created": "2026-10-10 02:54",
+          "castigado": false
+        },
+        {
+          "id": "5bc5451c4e",
+          "name": "alan❤️",
+          "role": "regular",
+          "created": "2026-10-10 02:55",
+          "castigado": false
+        },
+        {
+          "id": "c80403763b",
+          "name": "Alfa LC",
+          "role": "regular",
+          "created": "2026-10-10 02:55",
+          "castigado": false
+        },
+        {
+          "id": "45001ca319",
+          "name": "anonymuschild",
+          "role": "regular",
+          "created": "2026-10-10 02:55",
+          "castigado": false
+        },
+        {
+          "id": "154e5555a7",
+          "name": "Attman",
+          "role": "regular",
+          "created": "2026-10-10 02:55",
+          "castigado": false
+        },
+        {
+          "id": "343cd02a6f",
+          "name": "Chriz_Ez",
+          "role": "regular",
+          "created": "2026-10-10 02:55",
+          "castigado": false
+        },
+        {
+          "id": "2f4e45bfd0",
+          "name": "Elder Killing",
+          "role": "regular",
+          "created": "2026-10-10 02:56",
+          "castigado": false
+        },
+        {
+          "id": "caa8cc7c60",
+          "name": "Fuckboy",
+          "role": "regular",
+          "created": "2026-10-10 02:56",
+          "castigado": false
+        },
+        {
+          "id": "169e26ce40",
+          "name": "Icky",
+          "role": "regular",
+          "created": "2026-10-10 02:56",
+          "castigado": false
+        },
+        {
+          "id": "9341fde4e1",
+          "name": "Jesus",
+          "role": "regular",
+          "created": "2026-10-10 02:56",
+          "castigado": false
+        },
+        {
+          "id": "6b37d3761f",
+          "name": "Jhon",
+          "role": "regular",
+          "created": "2026-10-10 02:56",
+          "castigado": false
+        },
+        {
+          "id": "94716d3e25",
+          "name": "Lauty",
+          "role": "regular",
+          "created": "2026-10-10 02:57",
+          "castigado": false
+        },
+        {
+          "id": "50a767de53",
+          "name": "Paul",
+          "role": "regular",
+          "created": "2026-10-10 02:57",
+          "castigado": false
+        },
+        {
+          "id": "b7313a9322",
+          "name": "Pepe Pecas",
+          "role": "regular",
+          "created": "2026-10-10 02:57",
+          "castigado": false
+        },
+        {
+          "id": "7f890e31f6",
+          "name": "Snoopy",
+          "role": "regular",
+          "created": "2026-10-10 02:57",
+          "castigado": false
+        },
+        {
+          "id": "f848ae3ef2",
+          "name": "Starboy",
+          "role": "invitado",
+          "created": "2026-10-10 02:57",
+          "castigado": false
+        },
+        {
+          "id": "f7f37353dd",
+          "name": "Balder",
+          "role": "invitado",
+          "created": "2026-10-10 02:55",
+          "castigado": false
+        },
+        {
+          "id": "b6964d3859",
+          "name": "Tokito_versatil",
+          "role": "regular",
+          "created": "2026-10-10 02:58",
+          "castigado": false
+        },
+        {
+          "id": "1039658897",
+          "name": "Yorgos",
+          "role": "regular",
+          "created": "2026-10-10 02:58",
+          "castigado": false
+        },
+        {
+          "id": "e4f1a9d0ea",
+          "name": "Yurem",
+          "role": "regular",
+          "created": "2026-10-10 02:58",
+          "castigado": false
+        },
+        {
+          "id": "782ae457f1",
+          "name": "ELZ",
+          "role": "delegado",
+          "created": "2026-10-10 02:58",
+          "castigado": false
+        }
+      ],
+      "description": "",
+      "admin": null,
+      "delegados": []
+    },
+    "Escuela": {
+      "members": [
+        {
+          "id": "8bf1510da6",
+          "name": "⚡Ctrl-Z",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "d2ecacdcce",
+          "name": "Crossfire®",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "f0f0f2eb16",
+          "name": "Feverboy22",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "ccbaeb1ce1",
+          "name": "Nemo Doe",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "d1430e8bae",
+          "name": "starboy",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "e28d23599c",
+          "name": "$LÙX$",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "a64751ec1f",
+          "name": "☆°□°☆Sam☆°□°☆",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "a7cb0df0f2",
+          "name": "☆Jhonatan☆兔 (間魔大王)",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "cfbf0f89e5",
+          "name": "♡♡CRI$♡♡",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "bab5304a64",
+          "name": "⚡M a t e o⚡🧸🏹",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "62f2cce933",
+          "name": "✨Nakamura✨🐙",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "924b4b80f2",
+          "name": "✨Santi✨",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "95893d9d0c",
+          "name": "Alex (guapito)",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "be1ded120d",
+          "name": "🏳️‍🌈Legend",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "78b6b8465d",
+          "name": "Perikito",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "4788f2376f",
+          "name": "🧸Mr patas🧦",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "0b74beda5a",
+          "name": "🐿️Mapko",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "72f103c3a1",
+          "name": "agustin pixarro",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "c3723508c2",
+          "name": "älän❤️",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "0d67dfc350",
+          "name": "alejo port",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "58a333d80d",
+          "name": "Alfa LC",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "de027907f4",
+          "name": "alonso perez",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "b2628fae80",
+          "name": "Andy",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "fea8697b61",
+          "name": "Andy (A Revisión)",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "9b6d222af8",
+          "name": "Antonio",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "2937c8eef9",
+          "name": "Antonio A",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "020267d3ec",
+          "name": "Attman™",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "ddf102bc6d",
+          "name": "Avvl",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "2763d69574",
+          "name": "bad_lord",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "9a5f6c35b5",
+          "name": "Balder",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "e1d51dc031",
+          "name": "bonb",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "90cabc0408",
+          "name": "bounce_bubble",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "e9a571b448",
+          "name": "Braian 🇷🇺",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "206783c014",
+          "name": "brxy",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "b55af3f572",
+          "name": "Cachetes De Secundaria",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "a878c24bd2",
+          "name": "Capybara",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "feebf4b3ae",
+          "name": "chamo Ruiz",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "1b98f85ab0",
+          "name": "Chris💣",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "919919a04a",
+          "name": "Chriz_Ez",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "6e862bb3ee",
+          "name": "CL🇨🇱",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "6efacc7be8",
+          "name": "Daniel",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "acc6ece43e",
+          "name": "Daniel Hashi",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "68f8028649",
+          "name": "Daniskk",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "d2bd39f387",
+          "name": "Derek🐣",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "e7b57ea236",
+          "name": "Dieguito(13yo)",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "87ccbacd06",
+          "name": "Diógenes ✨El Perro Celeste✨",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "3b852ae54d",
+          "name": "Dylan",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "d4c72f10d3",
+          "name": "El Conejito De Secundaria",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "b4c5e22747",
+          "name": "Elder Killing",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "ba6b190e6d",
+          "name": "ero sama",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "5bbed3e35a",
+          "name": "Fernando Salamanca",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "b39333ddde",
+          "name": "Fuckboy",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "319a9d8b75",
+          "name": "Fulanito Mango",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "f143ec68c4",
+          "name": "Genaro",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "2b5ea4979e",
+          "name": "Gina",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "847fed1568",
+          "name": "Goten🤍😱👀 Тимофей",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "2fb4dea3ac",
+          "name": "Haru doe os",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "53e52bf330",
+          "name": "Icky",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "a5e1a3aada",
+          "name": "Iyari",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "342837a349",
+          "name": "Jesus",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "012471d7a5",
+          "name": "Jhon",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "840ca46f5c",
+          "name": "Joel Torres",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "1739605930",
+          "name": "Juan D",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "50a8f9e3d4",
+          "name": "Juan Pablo Os",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "cdb58b04e8",
+          "name": "Juanito {mood}",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "822d549bb6",
+          "name": "juju",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "9c274d6a72",
+          "name": "K$$$99",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "8e785e5f92",
+          "name": "kidwolf",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "0c173b48f5",
+          "name": "Killua",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "555dd3b39f",
+          "name": "king",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "4ce1018421",
+          "name": "kktier",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "d692efec78",
+          "name": "kl ml",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "6bf24f2cbb",
+          "name": "Knafh0",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "87ab148768",
+          "name": "kyubi🏹",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "b5208e4414",
+          "name": "La Salchicha",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "69cb425421",
+          "name": "latín mouse",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "fcfe5dca81",
+          "name": "Lautý",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "04c6e3fda2",
+          "name": "León Marin9",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "406a2da0c8",
+          "name": "Lordmiau",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "31433bd2af",
+          "name": "Luis Márquez",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "0666da69bb",
+          "name": "Majoras",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "0638f04914",
+          "name": "Mateo",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "3dd5f23723",
+          "name": "Meliodas 🏹",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "d358d26d31",
+          "name": "Miguel⚡😇",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "543388b13e",
+          "name": "Mr Robot🤖👽",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "755cdcb8b4",
+          "name": "Mr. Dan",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "00c1ef83ae",
+          "name": "nicolas",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "b2f23e5b37",
+          "name": "Olí",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "22f852de49",
+          "name": "p0394",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "c769971a1e",
+          "name": "PadrinoLoVe LoVe",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "df92d18a95",
+          "name": "Paul",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "4b3ad7f011",
+          "name": "Pedrito",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "0e49311c89",
+          "name": "Pedro",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "c089beaa38",
+          "name": "Pepe Pecas",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "4a45f47b5a",
+          "name": "Perro Flaco",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "9e9d3e5999",
+          "name": "perro mudo",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "ebe483f54d",
+          "name": "Pikachu",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "bd16745e78",
+          "name": "Pillow Boy",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "c79d19e647",
+          "name": "pol",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "c26291660b",
+          "name": "Pup Rex",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "836b98a2a2",
+          "name": "Ra Wr🦖",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "05077227d0",
+          "name": "Rich Santos",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "22d662c722",
+          "name": "Ricky",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "ae1eebb5de",
+          "name": "Rom",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "924c32fe6f",
+          "name": "Rubénfantasma",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "06a536ba67",
+          "name": "Sam Grey",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "b806728e43",
+          "name": "Samu",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "01a614207c",
+          "name": "Santisad",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "91890981f3",
+          "name": "Scar Fit",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "66ae0263f4",
+          "name": "Sebas Hgz 00",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "882030e130",
+          "name": "Sect",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "6002362965",
+          "name": "Señor Gato🐱",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "1e48df4c89",
+          "name": "Snoppy❤️",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "1a2996d07c",
+          "name": "taichi michi El Llamadas Locas",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "1e0979f25b",
+          "name": "taviksxs",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "adadb1dc66",
+          "name": "Tito",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "6815577ca3",
+          "name": "Tito robles",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "ffdc498a7a",
+          "name": "Tommyb10 El septimo",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "33692e3311",
+          "name": "Triton",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "a6871919a8",
+          "name": "Valentino",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "28d6d50409",
+          "name": "Veter Jvc🐤",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "db24fb94bf",
+          "name": "Vgkid",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "5d18127df1",
+          "name": "VLASTER",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "1ae4539afe",
+          "name": "Yorgos",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "926e41336c",
+          "name": "Yurem",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "1f30c3b3da",
+          "name": "Zero",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        },
+        {
+          "id": "1a1024edec",
+          "name": "ELZ",
+          "role": "delegado",
+          "created": "2026-10-10 04:03",
+          "castigado": false
+        },
+        {
+          "id": "5b8e48f693",
+          "name": "Fer G",
+          "role": "regular",
+          "created": "2026-10-10 17:18",
+          "castigado": false
+        },
+        {
+          "id": "378299aae6",
+          "name": "Daddy Rob",
+          "role": "regular",
+          "created": "2026-10-10 17:27",
+          "castigado": false
+        },
+        {
+          "id": "9a45fcc074",
+          "name": "mattu",
+          "role": "regular",
+          "created": "2026-10-10 17:28",
+          "castigado": false
+        },
+        {
+          "id": "5c10d766d1",
+          "name": "Angela Baltasar",
+          "role": "regular",
+          "created": "2026-10-10 17:28",
+          "castigado": false
+        },
+        {
+          "id": "9239129ed9",
+          "name": "El Joaco",
+          "role": "regular",
+          "created": "2026-10-10 17:28",
+          "castigado": false
+        },
+        {
+          "id": "e15b39c20c",
+          "name": "anthonyyvargas1",
+          "role": "regular",
+          "created": "2026-10-10 17:29",
+          "castigado": false
+        },
+        {
+          "id": "72faf8d259",
+          "name": "☆*l_aris*☆鼠",
+          "role": "regular",
+          "created": "2026-10-10 04:02",
+          "castigado": false
+        }
+      ],
+      "description": "",
+      "admin": null,
+      "delegados": []
+    }
+  },
+  "weeks": {
+    "2026-10-04": {
+      "Escuela": {
+        "participation": {
+          "d358d26d31": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "78b6b8465d": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "50a8f9e3d4": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "bd16745e78": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "cdb58b04e8": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "8bf1510da6": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "ae1eebb5de": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "53e52bf330": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "a7cb0df0f2": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "9b6d222af8": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "1e48df4c89": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "1a2996d07c": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "ba6b190e6d": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "6efacc7be8": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "a878c24bd2": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "04c6e3fda2": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "6bf24f2cbb": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "e28d23599c": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "22f852de49": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "5b8e48f693": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "c3723508c2": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "4788f2376f": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "b806728e43": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "8e785e5f92": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "9c274d6a72": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "b2628fae80": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "012471d7a5": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "f143ec68c4": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "822d549bb6": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "543388b13e": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "0b74beda5a": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "95893d9d0c": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "9a5f6c35b5": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "01a614207c": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "c769971a1e": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "ccbaeb1ce1": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "06a536ba67": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "62f2cce933": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "378299aae6": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "4b3ad7f011": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "1e0979f25b": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "9a45fcc074": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "fcfe5dca81": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "9239129ed9": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "d692efec78": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "feebf4b3ae": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "28d6d50409": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "72faf8d259": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          }
+        },
+        "incidents": []
+      },
+      "Academia": {
+        "participation": {
+          "b7313a9322": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "2f4e45bfd0": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "c80403763b": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          },
+          "91073a615b": {
+            "status": "si",
+            "days": [
+              5
+            ],
+            "mult": 1
+          }
+        },
+        "incidents": []
+      }
+    }
+  },
+  "notes": [],
+  "antecedents": [],
+  "movements": []
+}
